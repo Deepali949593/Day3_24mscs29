@@ -4,7 +4,7 @@ This repository contains internship tasks focused on backend development using J
 
 Here's your complete **Day 3 section** to add to your existing README, including references to the screenshots from your Java project's `img` folder (you mentioned the images are: `course.png`, `enrollment.png`, and `student.png` inside an `img` directory).
 
----
+
 
 ## ✅ Day 3: Student Enrollment Using MongoDB (Java + Maven)
 
@@ -55,26 +55,27 @@ The goal of this project was to implement a **Java console application** that in
 
 #### 📘 Students Collection
 
-> Location: `img/student.png`
 
-![Students](img/student.png)
+![Students](src/main/java/Day3_Application/img/studentss.png)
 
 ---
 
 #### 📗 Courses Collection
 
-> Location: `img/course.png`
-
-![Courses](img/course.png)
+![Courses](src/main/java/Day3_Application/img/course.png)
 
 ---
 
 #### 📕 Enrollments Collection (Embedded vs Referenced)
 
-> Location: `img/enrollment.png`
 
-![Enrollments](img/enrollment.png)
+![Enrollments](src/main/java/Day3_Application/img/enrollment.png)
 
 ---
 
-Let me know if you also want a ZIP/clone-ready README for GitHub or help resizing screenshots for the web.
+#### 📕 Mongodb Output
+
+
+![Enrollments](src/main/java/Day3_Application/img/mongodb ss1.png)
+
+---
