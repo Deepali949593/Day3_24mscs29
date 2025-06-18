@@ -73,7 +73,7 @@ The goal of this project was to implement a **Java console application** that in
 
 ---
 
-#### 📕 Mongodb Output
+#### 📕 Terminal Output
 
 
 ![Mongodb](src/main/java/Day3_Application/img/mongodbss1.png)
